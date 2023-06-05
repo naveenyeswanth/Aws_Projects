@@ -1,0 +1,3 @@
+[submodule "terraform/content"]
+	path = terraform/content
+	url = https://github.com/naveenyeswanth/Aws_Projects.git
